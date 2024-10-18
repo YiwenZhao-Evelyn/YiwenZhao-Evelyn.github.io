@@ -11,3 +11,5 @@ about:
       text: GitHub
       href: https://github.com/YiwenZhao-Evelyn
 ---
+
+Hi! I am a first year Statistics Master student at the University of Chicago. Previously, I earned a Bachelor's degree in Mathematics and Applied Mathematics from Beijing Normal University in 2024.

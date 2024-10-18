@@ -9,6 +9,9 @@ website:
       - href: index.qmd
         text: Home
       - about.qmd
+    tools:
+      - icon: github
+        href: https://github.com/YiwenZhao-Evelyn/YiwenZhao-Evelyn.github.io
 
 format:
   html:

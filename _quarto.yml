@@ -13,5 +13,6 @@ website:
 format:
   html:
     theme: flatly
+    mainfont: "'Noto Sans', sans-serif"
     # css: my-style.css
     # toc: true
